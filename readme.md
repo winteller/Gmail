@@ -9,10 +9,10 @@
 | [PortX](https://ebyu.one/auth/register?code=gzHS) | 美国 | 签到 | 3个 |
 | [iKuuu](https://ikuuu.dev/auth/register) | 日本 | 每月50GB+签到 | 5个 |
 
-## 客户端
+## 客户端和工具
 
-| 名称 | 平台 | 
+| 名称 | 平台 |  说明 | 
 | --- | :---: | 
-| [v2rayN](https://github.com/2dust/v2rayN/) | Windows |
-| [v2rayNG](https://github.com/2dust/v2rayNG/) | Android |
-
+| [v2rayN](https://github.com/2dust/v2rayN/) | Windows | 客户端 |
+| [v2rayNG](https://github.com/2dust/v2rayNG/) | Android | 客户端 |
+| [stairspeedtest-reborn](https://github.com/tindy2013/stairspeedtest-reborn) | Windows | 测速工具 |
