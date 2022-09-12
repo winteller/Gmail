@@ -13,6 +13,6 @@
 
 | 名称 | 平台 | 
 | --- | :---: | 
-| [v2rayN](https://github.com/2dust/v2rayN/releases) | Windows |
-| [v2rayNG](https://github.com/2dust/v2rayNG/releases) | Android |
+| [v2rayN](https://github.com/2dust/v2rayN/) | Windows |
+| [v2rayNG](https://github.com/2dust/v2rayNG/) | Android |
 
