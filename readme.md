@@ -18,6 +18,7 @@
 | --- | :---: |  :---: | 
 | [v2rayN](https://github.com/2dust/v2rayN/) | Windows | 客户端 |
 | [v2rayNG](https://github.com/2dust/v2rayNG/) | Android | 客户端 |
+| [v2rayU](https://github.com/yanue/V2rayU/releases) | macOS | 客户端 |
 | [stairspeedtest-reborn](https://github.com/tindy2013/stairspeedtest-reborn) | Windows | 测速工具 |
 
 ## 接码平台
